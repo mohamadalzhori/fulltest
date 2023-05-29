@@ -18,5 +18,8 @@
     "mysql2": "^3.3.2",
     "nodemon": "^2.0.22",
     "webpack": "^5.84.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.1"
   }
 }
